@@ -4,7 +4,7 @@
 # Everything outside the src directory
 /*
 /*/
-!/src/
+!/LeetCode/
 # User-specific files
 *.suo
 *.user
@@ -14,14 +14,14 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 # Build generated files in src
-/src/**/objd/**/*
-/src/**/obj/**/*
-/src/**/bin/**/*
-/src/**/gen/**/*
-/src/**/*.nuspec
-/src/**/StyleCop.Cache
-/src/.packages/**/*
-/src/**/pkg/**/*
+/LeetCode/**/objd/**/*
+/LeetCode/**/obj/**/*
+/LeetCode/**/bin/**/*
+/LeetCode/**/gen/**/*
+/LeetCode/**/*.nuspec
+/LeetCode/**/StyleCop.Cache
+/LeetCode/.packages/**/*
+/LeetCode/**/pkg/**/*
 
 # Build results
 [Dd]ebug/
