@@ -1,4 +1,5 @@
 ﻿using LeetCode._2DArray;
+using LeetCode.Design;
 using LeetCode.DynamicProgramming;
 using LeetCode.QGraph;
 using LeetCode.QString;
@@ -37,8 +38,12 @@ namespace LeetCode
             //var k = new Sudoku_37();
             //var k = new CombinationSumIV_377();
 
-            new StringCompression_443();
-            Console.ReadKey();
+            //new StringCompression_443();
+
+            //new MultiplyStrings_43();
+
+            ShortenURL service = new ShortenURL();
+            service.Short(@"https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.hashalgorithm.computehash?view=net-6.0#system-security-cryptography-hashalgorithm-computehash(system-byte())");
         }
     }
 }
