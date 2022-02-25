@@ -4,6 +4,7 @@ using LeetCode.QGraph;
 using LeetCode.QString;
 using LeetCode.QTree;
 using LeetCode.QuestionArray;
+using MyLC.Other;
 using System;
 using System.Collections.Generic;
 
@@ -37,7 +38,10 @@ namespace LeetCode
             //var k = new Sudoku_37();
             //var k = new CombinationSumIV_377();
 
-            new StringCompression_443();
+            //new StringCompression_443();
+            //new DifferentWaysToAddParentheses_241();
+            Console.WriteLine(int.Parse("001"));
+            
             Console.ReadKey();
         }
     }
