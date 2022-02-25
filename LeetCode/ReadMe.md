@@ -4,11 +4,11 @@
 3. can use priority queue?
 4. Go from front end and then try from backward.
 
-
-
 ## Others
 1. Do not save space to introduce more error. like statement after if should use {}.
 2. If a problem has two dimention need to solve, first resolve one dimention then solve other dimention.
+3. Use cache to improve performance when running recursively.
+4. Use devide and conquer might simplify the problem.
 
 ## Best explain for a serial of questions
 1. Best time to buy and sell stock: 
